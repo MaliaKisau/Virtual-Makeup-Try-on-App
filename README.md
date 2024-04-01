@@ -1,2 +1,2 @@
 # Virtual-Makeup-Try-on-App
-A fun and interactive tool designed for makeup enthusiasts to experiment with different makeup looks virtually.
+The Virtual Makeup Try-On App is a fun and interactive tool designed for makeup enthusiasts to experiment with different makeup looks virtually. With a user-friendly interface, the app allows users to upload their photos and apply a variety of makeup filters, including lipstick, eyeshadow, blush, and more. Powered by Python with OpenCV for image processing and tkinter for the graphical user interface, the app provides a seamless experience for users to explore various makeup styles and colors without the need for physical products.
