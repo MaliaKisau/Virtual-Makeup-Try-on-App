@@ -24,3 +24,7 @@ The Virtual Makeup Try-On App is a fun and interactive tool designed for makeup 
 	•	Discover new makeup styles and colors tailored to your preferences.
 	•	Perfect for trying out makeup ideas for special occasions or everyday looks.
 	•	Share your virtual makeover with friends and get their feedback instantly.   
+
+ 
+Get Started:
+Experience the Virtual Makeup Try-On App today and unleash your creativity with makeup in a whole new way!
