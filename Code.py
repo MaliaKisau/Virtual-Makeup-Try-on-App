@@ -8,3 +8,12 @@ def load_photo():
         img = ImageTk.PhotoImage(img)
         label.config(image=img)
         label.image = img
+
+# Function to apply makeup filters
+def apply_makeup():
+    # Implement makeup filters here
+    pass
+
+# Create GUI
+root = tk.Tk()
+root.title("Virtual Makeup Try-On")
